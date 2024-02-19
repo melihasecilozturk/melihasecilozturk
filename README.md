@@ -1,6 +1,5 @@
 - 👋 Hi, there
 - A passionate Self-taught Data scientist
-- Currently learning Machine Learning and Querying MS SQL
 - I’m currently open for a new job opportunity.
 
 
