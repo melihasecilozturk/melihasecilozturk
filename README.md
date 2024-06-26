@@ -1,6 +1,5 @@
 - 👋 Hi, there
-- A passionate Self-taught Data scientist
-- I’m currently open for a new job opportunity.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
